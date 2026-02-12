@@ -3,7 +3,7 @@
 A RESTful backend API built with **Node.js, Express, MongoDB, and Swagger**, providing authentication and student CRUD operations for applications.
 
 **Live Swagger Docs**  
----------> ""
+---------> "https://custom-api-for-class.onrender.com/api-docs/"
 
 ---
 

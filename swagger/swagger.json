@@ -11,11 +11,11 @@
         "description": "Local server"
       },
       {
-        "url": "https://custom-api-for-react-class.onrender.com/",
+        "url": "https://custom-api-for-class.onrender.com/",
         "description": "Production server"
       },
       {
-        "url": "https://custom-api-for-react-class.onrender.com/api-docs/",
+        "url": "https://custom-api-for-class.onrender.com/api-docs/",
         "description": "Render Deployment server"
       }
     ],
